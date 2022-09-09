@@ -1,0 +1,48 @@
+button {
+    height: 25px;
+    width: 100px;
+    border-radius: 10px;
+    color: darkorange;
+    background-color: bisque;
+    margin-left: 575px;
+    margin-top: 400px;
+    position: fixed;
+
+
+
+}
+h1 {
+    border-radius: 10px;
+    box-shadow: 10px 10px ;
+    margin-left: 400px;
+    position: fixed;
+    margin-top: -75px;
+    
+}
+#myVideo2 {
+    border-radius: 900px;
+    height: 500px;
+    width: 500px;
+    margin-left: 445px;
+    position: fixed;
+    margin-top: 55px;
+    padding: 20px;
+    margin-top: 50px;
+    display: inline-block;
+    
+    
+}
+#ticker {
+    margin-right: 500px;
+    
+}
+label {
+    margin-left: 515px;
+    margin-bottom: 800px;
+    position: fixed;
+    margin-top: 355px;
+}
+a {
+    color: orange;
+    font-size: xx-large;
+}
