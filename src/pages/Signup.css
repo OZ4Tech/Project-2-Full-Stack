@@ -1,0 +1,48 @@
+.cover-s {
+    margin-top: 100px;
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    position: fixed;
+    border-radius: 1em;
+    box-shadow: 10px 10px orange;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 450px;
+    margin-top: 200px;
+}
+h1 {
+    margin-bottom: 20px;
+    margin-right: 200px;
+    position: relative;
+}
+.text {
+    margin-bottom: 250px;
+    margin-left: 10px;
+    position: fixed;
+}
+.email {
+    margin-bottom: 200px;
+    margin-left: 10px;
+    position: fixed;
+}
+.password {
+    margin-bottom: 150px;
+    margin-left: 10px;
+    position: fixed;
+}
+.passwordagain {
+    margin-bottom: 100px;
+    margin-left: 10px;
+    position: fixed;
+}
+.login-btn {
+    margin-right: 600px;
+    border-radius: 30px;
+    width: 5px;
+    position: absolute;
+}
+li {
+    color: orange;
+}
