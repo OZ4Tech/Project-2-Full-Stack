@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ed89195.css",
+    "main.js": "/static/js/main.f62bf388.js",
+    "static/media/bulls2.mp4": "/static/media/bulls2.05db80c55042e39135fa.mp4",
+    "static/media/bullandbear.mp4": "/static/media/bullandbear.cb8a993df1222dd1448c.mp4",
+    "index.html": "/index.html",
+    "main.1ed89195.css.map": "/static/css/main.1ed89195.css.map",
+    "main.f62bf388.js.map": "/static/js/main.f62bf388.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ed89195.css",
+    "static/js/main.f62bf388.js"
+  ]
+}
