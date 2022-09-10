@@ -33,8 +33,9 @@ Please contact OZ4Tech with any questions
 
 ## App Preview
 
-![App Preview]()
+![React App (3)](https://user-images.githubusercontent.com/103383531/189462831-b4f304f0-30f8-4e64-96d8-b7a2027f3dc0.gif)
+
 
 ## Deployed App Link
 
-Click [HERE]() to see our deployed app.
+Click [HERE](https://theliveststock.herokuapp.com/) to see our deployed app.
